@@ -9,6 +9,7 @@ numpy = "*"
 seaborn = "*"
 matplotlib = "*"
 jupyter = "*"
+click = "*"
 
 [dev-packages]
 

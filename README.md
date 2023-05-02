@@ -10,7 +10,7 @@ pip install pipenv
 # Install the dependencies with pipenv
 ``` shell
 pipenv install
-pioenv shell
+pipenv shell
 ```
 
 # You need to have the dataset in the main folder

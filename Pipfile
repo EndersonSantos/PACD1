@@ -10,6 +10,9 @@ seaborn = "*"
 matplotlib = "*"
 jupyter = "*"
 click = "*"
+sklearn = "*"
+xgboost = "*"
+catboost = "*"
 
 [dev-packages]
 
